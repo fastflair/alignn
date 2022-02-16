@@ -56,8 +56,8 @@ bash Miniconda3-latest-MacOSX-x86_64.sh (for Mac)
 Download 32/64 bit python 3.8 miniconda exe and install (for windows)
 Now, let's make a conda environment, say "version", choose other name as you like::
 ```
-conda create --name version python=3.8
-source activate version
+conda create --name alignn python=3.8
+source activate alignn
 ```
 #### Method 1 (using setup.py):
 
