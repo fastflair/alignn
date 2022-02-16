@@ -58,6 +58,7 @@ Now, let's make a conda environment, say "version", choose other name as you lik
 ```
 conda create --name alignn python=3.8
 source activate alignn
+sudo apt install slurm-client
 ```
 #### Method 1 (using setup.py):
 
